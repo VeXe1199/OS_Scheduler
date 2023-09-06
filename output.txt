@@ -1,20 +1,18 @@
-Process	Burst Time	Turnaround Time	Waiting Time	Response Time
-P9	7		107		100		16
-P1	11		148		137		0
-P8	13		187		174		14
-P12	13		192		179		22
-P5	15		205		190		8
-P14	16		217		201		26
-P4	17		224		207		6
-P3	20		240		220		4
-P6	20		242		222		10
-P10	20		246		226		18
-P2	24		264		240		2
-P7	24		266		242		12
-P11	25		273		248		20
-P13	30		283		253		24
-P15	29		284		255		28
+Process	Response Time	Wait Time	Turnaround Time
+1	210		35		245
+2	133		58		191
+3	2		78		80
+4	93		154		247
+5	182		48		230
+6	0		207		207
+7	103		47		150
+8	46		32		78
+9	132		22		154
+10	23		69		92
+11	81		101		182
+12	54		101		155
+13	155		22		177
+14	113		140		253
+15	191		61		252
 
-Average Waiting Time: 206.27
-Average Response Time: 14.00
-Average Turnaround Time: 225.20
+
